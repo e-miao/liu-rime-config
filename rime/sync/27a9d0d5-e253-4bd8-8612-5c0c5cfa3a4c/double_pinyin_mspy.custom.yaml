@@ -1,0 +1,10 @@
+patch:
+  # 菜单
+  menu:
+    page_size: 9  # 候选词个数
+  style:
+    horizontal: true
+    candidate_list_layout: linear #stacked/linear 和
+    text_orientation: horizontal #horizontal/vertical
+  candidate_list_layout: linear #stacked/linear 和
+  text_orientation: horizontal #horizontal/vertical

@@ -1,0 +1,2 @@
+~/.local/share/fcitx5/rime
+~/.config/fcitx5/conf
